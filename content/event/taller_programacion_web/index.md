@@ -1,10 +1,10 @@
 ---
-title: Example Talk
+title: Taller de introducción a Web
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Talleres Bioinformáticos 2024
+event_url: https://rsg-argentina.netlify.app/workshops/
 
-location: Hugo Blox Builder HQ
+location: Virtual
 address:
   street: 450 Serra Mall
   city: Stanford
