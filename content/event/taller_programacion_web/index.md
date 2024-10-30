@@ -62,14 +62,21 @@ projects:
   - example
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
+# Material
 
-Slides can be added in a few ways:
+En esta sección encontrarás el material del taller
 
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; padding: 20px;">
+    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
+        <a href="https://docs.google.com/presentation/d/1O7g8MjLIEwqH1zSkwL8fnZVzg3Qfkm4XukXqd1liPb0/edit?usp=sharing">
+            <img src="https://img.icons8.com/ios-glyphs/30/000000/ms-powerpoint.png" alt="Slides" style="width: 60px; height: 60px;">
+        </a>
+        <a href="https://docs.google.com/presentation/d/1O7g8MjLIEwqH1zSkwL8fnZVzg3Qfkm4XukXqd1liPb0/edit?usp=sharing" style="margin-top: 5px;">Slides</a>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
+        <a href="https://drive.google.com/file/d/1Y-Fo9GCkxGpf1oK2Gz5hVb7aS7WxRKL2/view?usp=sharing">
+            <img src="https://img.icons8.com/ios-glyphs/30/000000/document.png" alt="Guía" style="width: 60px; height: 60px;">
+        </a>
+        <a href="https://drive.google.com/file/d/1Y-Fo9GCkxGpf1oK2Gz5hVb7aS7WxRKL2/view?usp=sharing" style="margin-top: 5px;">Guía</a>
+    </div>
+</div>
